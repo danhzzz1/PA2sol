@@ -1,0 +1,1 @@
+FROM sandervalstar/devcontainer:centos_cpp_basic_v1

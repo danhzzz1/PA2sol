@@ -1,0 +1,10 @@
+{
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "build active file",
+            "command": "make ${fileBasenameNoExtension} CXXFLAGS='-Wall -pedantic -O3 -std=c++11 -g'"
+        }
+    ],
+    "version": "2.0.0"
+}
