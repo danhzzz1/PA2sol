@@ -1,6 +1,9 @@
 # Programming Assignment 2: Search Trees
 In this Programming Assignment, you will be assessing your understanding of Binary Search Trees and K-D Trees.
 
+## Part 0: Weekly Reflection Survey (5 points)
+Complete this weekly reflection survey: https://forms.gle/V6yETk1sEqKQECVs7
+
 ## Part 1: Tree Balance (20 points)
 The time complexity of algorithms on many tree structures depends significantly upon the "balance" of the tree. Trees can be *perfectly balanced*, *perfectly unbalanced*, or somewhere in between.
 
@@ -181,6 +184,9 @@ Feel free to [read more about what a ``Makefile`` does](https://www.geeksforgeek
 This Programming Assignment (PA) must be completed 100% independently! You may only discuss the PA with the Tutors, TAs, and Instructors. You are free to use resources from the internet, but you are not allowed to blatantly copy-and-paste code. If you ever find yourself highlighting a code snippet, copying, and pasting into your PA, you are likely violating the Academic Integrity Policy. If you have any concerns or doubts regarding what you are about to do, *please* be sure to post on Piazza first to ask us if it is okay.
 
 ## Grading (100 points total)
+* **Part 0: Weekly Reflection Survey**
+    * 5 points for submitting the weekly reflection survey (extra credit)
+    * 0 points for not submitting the weekly reflection survey
 * **Part 1: Tree Balance**
     * 5 points for a correct ``1a.txt`` (0 points for incorrect)
     * 5 points for a correct ``1b.txt`` (0 points for incorrect)
