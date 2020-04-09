@@ -1,6 +1,6 @@
 # use g++ with C++11 support
 CXX=g++
-CXXFLAGS?=-Wall -pedantic -O3 -std=c++11
+CXXFLAGS?=-Wall -pedantic -g -O0 -std=c++11
 OUTFILES=BSTTest SuccessorTest
 
 all: $(OUTFILES)
